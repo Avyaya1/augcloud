@@ -1,3 +1,25 @@
 Python Machine Learning
 Computer Vision NLP
 DE
+BLUE
+RED
+ORANGE
+WHITE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
